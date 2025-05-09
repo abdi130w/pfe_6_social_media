@@ -9,15 +9,15 @@ lemmy instance with custom settings it uses lemmy-ui web front-end client, both 
 Uses wordpress official docker image along LearnPress plugin with custom entries (courses) and custom settings
 
 ## Files structure :
-**Volumes.zip**: compressed container volumes to be extracted and mounted
-**docker-compose**: docker compose file for each set of services
-**config**: directory contains config files for set of services including nginx and databases
-**schema.sql**: database schema for each service
-**setup.sh**: script for the first-time setup extracts volumes, sets permissions and starts the services
-**clean.sh**: cleans the setup.sh created containers alongside the volumes
-**report/**: contains report original markdown files with the linked images
-**report.pdf**: full report in pdf format
-**map.md**: file contains the report content requirements for each chapter
++ **Volumes.zip**: compressed container volumes to be extracted and mounted
++ **docker-compose**: docker compose file for each set of services
++ **config**: directory contains config files for set of services including nginx and databases
++ **schema.sql**: database schema for each service
++ **setup.sh**: script for the first-time setup extracts volumes, sets permissions and starts the services
++ **clean.sh**: cleans the setup.sh created containers alongside the volumes
++ **report/**: contains report original markdown files with the linked images
++ **report.pdf**: full report in pdf format
++ **map.md**: file contains the report content requirements for each chapter
 
 **Note**: for stoping and reusing the same containers without clearing the volumes and have changes persist , run from the pfe_6_social_media
 + to stop the services

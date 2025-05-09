@@ -51,5 +51,6 @@ chmod +x setup.sh
 
 After the services has started , you can vist the web applications at :
 
-localhost:8000 for the courses services
-localhost:10633 for the community service
+**localhost:8000** for the courses services
+
+**localhost:10633** for the community service

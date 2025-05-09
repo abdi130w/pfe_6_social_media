@@ -17,7 +17,7 @@ Uses wordpress official docker image along LearnPress plugin with custom entries
 + **clean.sh**: cleans the setup.sh created containers alongside the volumes
 + **report/**: contains report original markdown files with the linked images
 + **report.pdf**: full report in pdf format
-+ **map.md**: file contains the report content requirements for each chapter
++ **map.md**: markdown file contains the report content requirements for each chapter
 
 **Note**: for stoping and reusing the same containers without clearing the volumes and have changes persist , run from the pfe_6_social_media
 + to stop the services

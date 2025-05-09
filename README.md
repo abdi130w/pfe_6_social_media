@@ -14,7 +14,6 @@ Uses wordpress official docker image along LearnPress plugin with custom entries
 + **config**: directory contains config files for set of services including nginx and databases
 + **schema.sql**: database schema for each service
 + **setup.sh**: script for the first-time setup extracts volumes, sets permissions and starts the services
-+ **clean.sh**: cleans the setup.sh created containers alongside the volumes
 + **report/**: contains report original markdown files with the linked images
 + **report.pdf**: full report in pdf format
 + **map.md**: markdown file contains the report content requirements for each chapter

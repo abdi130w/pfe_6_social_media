@@ -1,4 +1,4 @@
-# Index
+# Table of Content
 **Resume**
 **1 - Introduction**
 **1.1 - Origins of the idea**
@@ -33,3 +33,4 @@
 **5.1 - Conclusion**
 **5.2 - Perspective**
 **6 - Bibliography**
+**7 - BMC**

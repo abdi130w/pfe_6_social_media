@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6d9ab95516bce33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cff49b7b5eada51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bad20f7c03b4e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_BMC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7_BMC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fbedd7650b2424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8af0d1d514059576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97c36b7349ffb525",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "096462d5f6f94680",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5766f5ea8380188",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adf4fe69deee55b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8039c0b0f15a87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d3c0b50370a3cd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7_BMC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7_BMC"
+            }
+          },
+          {
+            "id": "43960ad88e391ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7_BMC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7_BMC"
+            }
+          },
+          {
+            "id": "cb3f0b19353d8dc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ce751150ba50820f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7_BMC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7_BMC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4bad20f7c03b4e59",
+  "lastOpenFiles": [
+    "0_Table_of_Content.md",
+    "7_BMC.md",
+    "6_Bibliography.md",
+    "bib",
+    "5_Conclusion.md",
+    "4_Implementation.md",
+    "3_Design.md",
+    "2_Problem.md",
+    "1_Idea.md",
+    "page de garde.docx",
+    "page de garde.docx.pdf",
+    "modification.md",
+    "images/diagrams/use_case.png",
+    "images/diagrams/sequence.png",
+    "images/diagrams/courses_use_case.jpg",
+    "images/diagrams/use_case.jpg",
+    "images/diagrams/course_purchase_sequence.jpg",
+    "images/diagrams/course_submission_sequence.jpg",
+    "images/diagrams/class.jpg"
+  ]
+}

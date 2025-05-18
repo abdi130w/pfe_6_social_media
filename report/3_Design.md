@@ -41,21 +41,19 @@ Since the Solution relies on multiple services and hence it is designed to addre
 
 The core diagram and most important on the **RUP**  method since it relies on iteration, the diagram defines the functionality of each actor and which relations it has with other actors, and defines the **dependencies** between each action
 
-![Use-Case diagram](./images/use_case.jpg)
-![learning diagram](./images/learning_use_case.jpg)
+![Use-Case diagram](./images/diagrams/use_case.png)
 # 3.5 - Sequence Diagram[4]
 
 Represents the sequence of messages between objects during an interaction. A sequence diagram includes a group of objects, represented by lifelines, and the messages that these objects exchange during the interaction for each service
 
 
-![course purchase sequence diagram](./images/course_purchase_sequence_diagram.jpg)
+![sequence diagram](./images/diagrams/sequence.png)
 
-![course purchase sequence diagram](./images/course_submission_sequence_diagram.jpg)
 # 3.6 - Class Diagram [5]
 
 Primarily used to visualize a system structure. Besides that, it also shows the main components, their relationships with each other, and their respective attributes
 
-![Class diagram](./images/class_diagram.jpg)
+![Class diagram](./images/diagrams/class.jpg)
 # 3.7 - Relational Model
 
 As chosen design we used SQL databases which are **relational** type of databases as opposed to NoSQL databases, the transformation from class diagram to the relational model follows 3 rules :
@@ -66,4 +64,8 @@ As chosen design we used SQL databases which are **relational** type of database
 
 # Conclusion
 
-After the design and applying the analysis the resulting diagrams enable us to  move into the next phase
+After the design and applying the analysis the resulting diagrams enable us to  move into the next phase where we discuss :
++ Technical Requirements
++ Programming languages and Software choices (CMS, FOSS ...) 
++ The reasons behind our choices
++ The Involved interfaces

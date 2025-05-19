@@ -69,3 +69,4 @@ After the design and applying the analysis the resulting diagrams enable us to  
 + Programming languages and Software choices (CMS, FOSS ...) 
 + The reasons behind our choices
 + The Involved interfaces
+<div style="page-break-before: always; height: 0;"></div>

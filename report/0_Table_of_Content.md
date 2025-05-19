@@ -33,4 +33,9 @@
 **5.1 - Conclusion**
 **5.2 - Perspective**
 **6 - Bibliography**
-**7 - BMC**
+**6.1 Prototype**
+**6.1 Prototype**
+**6.2 - Architecture Type**
+**7 - Bibliography**
+**8 - BMC**
+<div style="page-break-before: always; height: 0;"></div>

@@ -51,3 +51,5 @@ Universal platform that integrates two distinct services : Forum communication s
 + Database Distribution : Since being local-first and following the privacy laws including Law N 18-07 which implies the physical and logical protection of Algerian citizens data , the app will start with centralized database and aims for distributed instances as it scales to provide faster access
 + Ease of use : following UI/UX best practices, the app provides easy to use web interface without requiring constant page reloading by using SPA design for the interface
 + Security of the services : using best security practices, update software and periodic pentesting
+
+<div style="page-break-before: always; height: 0;"></div>

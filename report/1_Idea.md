@@ -6,6 +6,7 @@
 +  ظهور منصات بيع الدورات على أنها منصات تعليمية لكن في غالب الأمر تكون هذه المنصات ذو أهداف تجارية فقط دون مراعات لجودة المحتوى التعليمي و غياب الاهتمام الكامل ببناء مجتمع رقمي
 
 وعليه فإنه بناءا على هذه التحديات التي تواجه المتعلم و لملئ الفراغ الموجود في سوق التعليم و المتمثل ف غياب منصة موحدة تجمع خدمات التعليم الرقمي بهدف بناءا مجتمع تعليمي رقمي تم تصميم منصة "تعلمي" لتلبية هذه الاحتياجات
+
 # Abstract
 
 The Current State of online education and Learning collaboration has always been segmented across multiple platforms from knowledge gathering, document resourcing and peer networking which made it hard to find one place that satisfies all the learners needs and that is distraction free
@@ -17,6 +18,7 @@ In Algeria the eLerning state is no different but face more problems :
 
 This Gape in the market and none centralized services represents an opportunity to satisfy real need and learn from previous mistakes by : Creating a multi services platform that is composed of : Forum Style Community-based Reddit-like communication platform where students exchange knowledge and a private schools courses listings that links students to real tutors to address quality learning
 
+<div style="page-break-before: always; height: 0;"></div>
 # 1 - Introduction
 
 The main goal of the platform is to provide a scalable ecosystem, The platform is mainly a web application that has two services :

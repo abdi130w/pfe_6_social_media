@@ -63,9 +63,6 @@ Both have their advantages depending on the use case :
 
 # 4.4 - Previews
 
-![class](images/diagrams/class.jpg)
-![sequence](images/diagrams/sequence.png)
-![use_case](images/diagrams/use_case.png)
 ![courses_checkout](images/screenshots/courses/checkout.png)
 ![courses_complete_prompt](images/screenshots/courses/complete_prompt.png)
 ![courses_course_complete](images/screenshots/courses/course_complete.png)
@@ -75,3 +72,4 @@ Both have their advantages depending on the use case :
 ![forum_main](images/screenshots/forum/main.jpg)
 ![forum_post](images/screenshots/forum/post.jpg)
 ![images_screenshots/forum/reports.jpg](images/screenshots/forum/reports.jpg)
+<div style="page-break-before: always; height: 0;"></div>

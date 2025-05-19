@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2cff49b7b5eada51",
+        "id": "885b138a166e2006",
         "type": "tabs",
         "children": [
           {
-            "id": "4bad20f7c03b4e59",
+            "id": "f7a68749236774b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_BMC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7_BMC"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_BMC.md",
+                "file": "6_Experimentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7_BMC"
+              "title": "Backlinks for 6_Experimentation"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_BMC.md",
+                "file": "6_Experimentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7_BMC"
+              "title": "Outgoing links from 6_Experimentation"
             }
           },
           {
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_BMC.md",
+                "file": "6_Experimentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7_BMC"
+              "title": "Outline of 6_Experimentation"
             }
           }
         ]
@@ -168,26 +164,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bad20f7c03b4e59",
+  "active": "f7a68749236774b4",
   "lastOpenFiles": [
-    "0_Table_of_Content.md",
-    "7_BMC.md",
-    "6_Bibliography.md",
-    "bib",
+    "report/7_Bibliography.md",
+    "8_BMC.md",
+    "7_Bibliography.md",
+    "6_Experimentation.md",
     "5_Conclusion.md",
     "4_Implementation.md",
     "3_Design.md",
     "2_Problem.md",
     "1_Idea.md",
+    "0_Table_of_Content.md",
+    "images/screenshots/forum/reports.jpg",
+    "images/screenshots/forum/post.jpg",
+    "images/screenshots/forum/main.jpg",
+    "images/screenshots/forum/legal.jpg",
+    "images/screenshots/courses/order.png",
+    "images/screenshots/courses/courses_home.png",
+    "images/screenshots/courses/course_complete.png",
+    "images/screenshots/courses/complete_prompt.png",
+    "images/screenshots/courses/checkout.png",
+    "images/screenshots/forum",
+    "images/screenshots/courses",
+    "images/diagrams/use_case.png",
+    "images/screenshots",
+    "images/diagrams",
+    "images",
+    "report/8_BMC.md",
+    "report/6_Experimentation.md",
+    "report/5_Conclusion.md",
+    "report/4_Implementation.md",
+    "report/3_Design.md",
+    "report/2_Problem.md",
+    "report/1_Idea.md",
+    "report/0_Table_of_Content.md",
+    "7_BMC.md",
+    "report",
+    "6_Bibliography.md",
+    "bib",
     "page de garde.docx",
     "page de garde.docx.pdf",
-    "modification.md",
-    "images/diagrams/use_case.png",
-    "images/diagrams/sequence.png",
-    "images/diagrams/courses_use_case.jpg",
-    "images/diagrams/use_case.jpg",
-    "images/diagrams/course_purchase_sequence.jpg",
-    "images/diagrams/course_submission_sequence.jpg",
-    "images/diagrams/class.jpg"
+    "modification.md"
   ]
 }
